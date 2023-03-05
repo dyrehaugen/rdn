@@ -2,219 +2,224 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/</loc>
+    <loc>http://localhost/rdn/about/</loc>
+  </url><url>
+    <loc>http://localhost/rdn/categories/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rdn/zh/categories/"
+                href="http://localhost/rdn/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rdn/categories/"
+                href="http://localhost/rdn/categories/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/</loc>
+    <loc>http://localhost/rdn/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rdn/zh/"
+                href="http://localhost/rdn/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rdn/"
+                href="http://localhost/rdn/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/fascisme/</loc>
+    <loc>http://localhost/rdn/tags/fascisme/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/liberalisme/</loc>
+    <loc>http://localhost/rdn/tags/liberalisme/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/</loc>
+    <loc>http://localhost/rdn/posts/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/samfunnsbygging/</loc>
+    <loc>http://localhost/rdn/categories/samfunnsbygging/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2022-09-14-sosial-kontroll/</loc>
+    <loc>http://localhost/rdn/posts/2022-09-14-sosial-kontroll/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/</loc>
+    <loc>http://localhost/rdn/tags/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rdn/zh/tags/"
+                href="http://localhost/rdn/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rdn/tags/"
+                href="http://localhost/rdn/tags/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/tilh%C3%B8righet/</loc>
+    <loc>http://localhost/rdn/tags/tilh%C3%B8righet/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/newsletter/</loc>
+    <loc>http://localhost/rdn/newsletter/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/newsletter/001-hello-world/</loc>
+    <loc>http://localhost/rdn/newsletter/001-hello-world/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/energikrise/</loc>
+    <loc>http://localhost/rdn/tags/energikrise/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/klimapolitikk/</loc>
+    <loc>http://localhost/rdn/categories/klimapolitikk/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/oljeleting/</loc>
+    <loc>http://localhost/rdn/tags/oljeleting/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2021-08-10-oljestopp/</loc>
+    <loc>http://localhost/rdn/posts/2021-08-10-oljestopp/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2021-05-31-hvilken-kapitalisme/</loc>
+    <loc>http://localhost/rdn/posts/2021-05-31-hvilken-kapitalisme/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/ideologi/</loc>
+    <loc>http://localhost/rdn/tags/ideologi/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/privatisering/</loc>
+    <loc>http://localhost/rdn/categories/privatisering/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/styring/</loc>
+    <loc>http://localhost/rdn/tags/styring/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/eu/</loc>
+    <loc>http://localhost/rdn/tags/eu/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/handel/</loc>
+    <loc>http://localhost/rdn/tags/handel/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2021-03-02-handelslogikk/</loc>
+    <loc>http://localhost/rdn/posts/2021-03-02-handelslogikk/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/kapitalisme/</loc>
+    <loc>http://localhost/rdn/categories/kapitalisme/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/markedstyring/</loc>
+    <loc>http://localhost/rdn/tags/markedstyring/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/h%C3%B8yesterett/</loc>
+    <loc>http://localhost/rdn/tags/h%C3%B8yesterett/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/klima/</loc>
+    <loc>http://localhost/rdn/categories/klima/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2020-12-23-klimadommen/</loc>
+    <loc>http://localhost/rdn/posts/2020-12-23-klimadommen/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/tenkem%C3%A5ter/</loc>
+    <loc>http://localhost/rdn/tags/tenkem%C3%A5ter/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/h%C3%A5ndverkere/</loc>
+    <loc>http://localhost/rdn/tags/h%C3%A5ndverkere/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2020-12-21-manana/</loc>
+    <loc>http://localhost/rdn/posts/2020-12-21-manana/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/oppussing/</loc>
+    <loc>http://localhost/rdn/categories/oppussing/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/spania/</loc>
+    <loc>http://localhost/rdn/tags/spania/</loc>
     <lastmod>2020-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/corona/</loc>
+    <loc>http://localhost/rdn/categories/corona/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2020-04-30-corona-tider/</loc>
+    <loc>http://localhost/rdn/posts/2020-04-30-corona-tider/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/d%C3%B8delighet/</loc>
+    <loc>http://localhost/rdn/tags/d%C3%B8delighet/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/forurensing/</loc>
+    <loc>http://localhost/rdn/tags/forurensing/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/regeletterlevelse/</loc>
+    <loc>http://localhost/rdn/tags/regeletterlevelse/</loc>
     <lastmod>2020-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/catalonia/</loc>
+    <loc>http://localhost/rdn/tags/catalonia/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/kulturell-identitet/</loc>
+    <loc>http://localhost/rdn/categories/kulturell-identitet/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2017-11-16-kulturell-identitet/</loc>
+    <loc>http://localhost/rdn/posts/2017-11-16-kulturell-identitet/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/m%C3%B8re-og-romsdal/</loc>
+    <loc>http://localhost/rdn/tags/m%C3%B8re-og-romsdal/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/uavhengighet/</loc>
+    <loc>http://localhost/rdn/tags/uavhengighet/</loc>
     <lastmod>2017-11-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/forskningsformidling/</loc>
+    <loc>http://localhost/rdn/tags/forskningsformidling/</loc>
     <lastmod>2017-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/forskninsgpolitikk/</loc>
+    <loc>http://localhost/rdn/categories/forskninsgpolitikk/</loc>
     <lastmod>2017-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/fremskrivinger/</loc>
+    <loc>http://localhost/rdn/tags/fremskrivinger/</loc>
     <lastmod>2017-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/innvandring/</loc>
+    <loc>http://localhost/rdn/tags/innvandring/</loc>
     <lastmod>2017-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2017-11-03-politikk-og-forskning/</loc>
+    <loc>http://localhost/rdn/posts/2017-11-03-politikk-og-forskning/</loc>
     <lastmod>2017-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/natur/</loc>
+    <loc>http://localhost/rdn/tags/natur/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2017-07-08-sjoen-og-skyene-og-tretoppene/</loc>
+    <loc>http://localhost/rdn/posts/2017-07-08-sjoen-og-skyene-og-tretoppene/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/steder/</loc>
+    <loc>http://localhost/rdn/tags/steder/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/categories/tilh%C3%B8righet/</loc>
+    <loc>http://localhost/rdn/categories/tilh%C3%B8righet/</loc>
     <lastmod>2017-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/archives/</loc>
+    <loc>http://localhost/rdn/links/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/docs/archives/</loc>
+    <loc>http://localhost/rdn/archives/</loc>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/docs/</loc>
+    <loc>http://localhost/rdn/docs/archives/</loc>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/newsletter/archives/</loc>
+    <loc>http://localhost/rdn/docs/</loc>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/search/</loc>
+    <loc>http://localhost/rdn/newsletter/archives/</loc>
+  </url><url>
+    <loc>http://localhost/rdn/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rdn/zh/search/"
+                href="http://localhost/rdn/zh/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rdn/search/"
+                href="http://localhost/rdn/search/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/series/</loc>
+    <loc>http://localhost/rdn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://dyrehaugen.github.io/rdn/zh/series/"
+                href="http://localhost/rdn/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dyrehaugen.github.io/rdn/series/"
+                href="http://localhost/rdn/series/"
                 />
   </url>
 </urlset>

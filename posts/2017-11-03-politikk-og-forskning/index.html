@@ -17,7 +17,6 @@
 <link crossorigin="anonymous" href="/rdn/assets/css/stylesheet.min.2835cc0d11d52c0633b74c406fe582bf308c566ec8f64cc665da68e659c99ec7.css" integrity="sha256-KDXMDRHVLAYzt0xAb&#43;WCvzCMVm7I9kzGZdpo5lnJnsc=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://dyrehaugen.github.io/rdn/favicon.ico">
 <link rel="apple-touch-icon" href="https://dyrehaugen.github.io/rdn/apple-touch-icon.png">
-<link rel="alternate" hreflang="en" href="https://dyrehaugen.github.io/rdn/posts/2017-11-03-politikk-og-forskning/">
 <script async defer data-website-id="f4e3ad0a-7fc1-4f18-b08c-9be77b60cdd5" src="https://oishii.reorx.com/oishii.js"></script>
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="Politikk og forskning | Dyrehaugen" />
@@ -280,14 +279,13 @@ function toggleThemeListener() {
                 </a>
             </li>
             <li>
-                <a href="https://reorx.com/" title="@Author" target="_blank"
-                >@Author<span class="external-link"><svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-external-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M11 7h-5a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-5" />
-  <line x1="10" y1="14" x2="20" y2="4" />
-  <polyline points="15 4 20 4 20 9" />
-</svg>
-</span>
+                <a href="https://dyrehaugen.github.io/rdn/links/" title="Links"
+                >Links
+                </a>
+            </li>
+            <li>
+                <a href="https://dyrehaugen.github.io/rdn/about/" title="About"
+                >About
                 </a>
             </li>
         </ul>
@@ -406,16 +404,26 @@ underkastes &lsquo;peer review&rsquo;.</p>
 </nav>
 
   </footer>
-    <div class="comments-separator"></div><div id="disqus_thread"></div>
-<script>
+    <div class="comments-separator"></div>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
 (function() {
-var d = document, s = d.createElement('script');
-s.src = 'https://larnsce.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = "dyrehaugen";
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
 </article>
     </main>
