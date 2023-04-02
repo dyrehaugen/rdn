@@ -2,6 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/b%C3%A6rekraft/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/posts/2023-04-01-hvor-er-var-verden-pa-vei/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/klima/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/konflikt/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/posts/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/samfunnsutvikling/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dyrehaugen.github.io/rdn/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyrehaugen.github.io/rdn/tags/"
+                />
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://dyrehaugen.github.io/rdn/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dyrehaugen.github.io/rdn/"
+                />
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/posts/2023-03-16-markedstyring/</loc>
+    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/sometag/</loc>
+    <lastmod>2023-03-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dyrehaugen.github.io/rdn/categories/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -21,43 +71,14 @@
     <loc>https://dyrehaugen.github.io/rdn/tags/liberalisme/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dyrehaugen.github.io/rdn/categories/samfunnsbygging/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rdn/posts/2022-09-14-sosial-kontroll/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dyrehaugen.github.io/rdn/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dyrehaugen.github.io/rdn/tags/"
-                />
-  </url><url>
     <loc>https://dyrehaugen.github.io/rdn/tags/tilh%C3%B8righet/</loc>
     <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/</loc>
-    <lastmod>2022-09-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://dyrehaugen.github.io/rdn/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dyrehaugen.github.io/rdn/"
-                />
   </url><url>
     <loc>https://dyrehaugen.github.io/rdn/newsletter/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
