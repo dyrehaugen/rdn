@@ -2,23 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/arbeiderpartiet/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rdn/tags/b%C3%A6rekraft/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/gr%C3%B8nt-skifte/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rdn/tags/gr%C3%B8nne-skifte/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/posts/2023-11-21-2023-11-21-jobbskaperne/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rdn/tags/konsekvensutreding/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/posts/2023-11-25-planetpolitikk/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/planett%C3%A5legrenser/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rdn/posts/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/sysselsetting/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rdn/tags/rasjonering/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/samfunnsomforming/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/samfunnstyring/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/selskapsansvar/</loc>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rdn/tags/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -31,7 +46,7 @@
                 />
   </url><url>
     <loc>https://dyrehaugen.github.io/rdn/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -43,8 +58,17 @@
                 href="https://dyrehaugen.github.io/rdn/"
                 />
   </url><url>
-    <loc>https://dyrehaugen.github.io/rdn/tags/b%C3%A6rekraft/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>https://dyrehaugen.github.io/rdn/tags/arbeiderpartiet/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/gr%C3%B8nt-skifte/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/posts/2023-11-21-jobbskaperne/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dyrehaugen.github.io/rdn/tags/sysselsetting/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dyrehaugen.github.io/rdn/posts/2023-04-01-hvor-er-var-verden-pa-vei/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
