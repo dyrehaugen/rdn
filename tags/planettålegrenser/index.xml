@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>planettålegrenser on Ytringer</title>
+    <title>Planettålegrenser on Ytringer</title>
     <link>https://dyrehaugen.github.io/rdn/tags/planett%C3%A5legrenser/</link>
-    <description>Recent content in planettålegrenser on Ytringer</description>
+    <description>Recent content in Planettålegrenser on Ytringer</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Sat, 25 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dyrehaugen.github.io/rdn/tags/planett%C3%A5legrenser/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Planetpolitikk</title>
